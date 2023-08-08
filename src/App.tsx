@@ -1,7 +1,7 @@
 import './App.css'
 import Drum from './Drum';
 
-const audioClips: AudioClip[] = [
+const audioClips = [
   {
    keyTrigger: "Q",
    url: "https://s3.amazonaws.com/freecodecamp/drums/Heater-1.mp3",
